@@ -1,4 +1,4 @@
-# Mesos documentation
+# The Mesos Book
 
 Herein lies documentation for the Mesos cluster manager and tools to build
 same. Source code for the book is
