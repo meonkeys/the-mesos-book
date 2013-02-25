@@ -50,4 +50,4 @@ otherwise unmodified fork of the original English repository.
 # Why pandoc markdown?
 
 * Less features than, for instance, LaTeX, but way simpler.
-* Easily create beautiful ebooks.
+* Allows for easy creation of beautiful ebooks.
