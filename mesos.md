@@ -60,8 +60,8 @@ You can use Mesos to:
 
 ## cluster
 
-From the
-[wikipedia article Computer Cluster](http://en.wikipedia.org/wiki/Computer_cluster):
+From
+[wikipedia](http://en.wikipedia.org/w/index.php?title=Computer_cluster&oldid=539421973):
 "A computer cluster consists of a set of loosely connected computers that work
 together so that in many respects they can be viewed as a single system."
 
