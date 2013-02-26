@@ -3,7 +3,7 @@ mesos.pdf: mesos.md
 		--variable mainfont:Verdana \
 		--variable fontsize:12pt \
 		--variable geometry:margin=1in \
-		--variable links-as-notes \
+		--variable links-as-notes:1 \
 		--latex-engine xelatex $< -o $@
 
 mesos.epub: mesos.md
