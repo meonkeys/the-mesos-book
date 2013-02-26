@@ -47,7 +47,16 @@ Do not also submit documentation build system pull requests from the fork you
 use for translating. If you want to change, for example, `Makefile`, use an
 otherwise unmodified fork of the original English repository.
 
-# Why pandoc markdown?
+# Why Pandoc?
+
+Why use Pandoc Markdown for the book source code?
 
 * Less features than, for instance, LaTeX, but way simpler.
-* Allows for easy creation of beautiful ebooks.
+* Allows for easy creation of beautiful, fun-to-read ebooks.
+
+# More resources
+
+This book doesn't completely document Mesos.
+
+* For source-level details, see the API documentation.
+* For more fluid/collaborative documents, see the wiki.
