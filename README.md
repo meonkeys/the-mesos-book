@@ -15,7 +15,7 @@ This work is licensed under a
 
 First, install dependencies. For Ubuntu:
 
-    sudo apt-get install pandoc
+    sudo apt-get install pandoc texlive-xetex texlive-latex-recommended
 
 ## Create book
 
